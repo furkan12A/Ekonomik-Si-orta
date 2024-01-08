@@ -1,0 +1,804 @@
+Uri: http://www.arcsigorta.com.tr/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/15c42-web-agency-gb-news/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\15c42-web-agency-gb-news\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/ferdi-kaza-hasari-icin-gerekli-bilgiler/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\ferdi-kaza-hasari-icin-gerekli-bilgiler\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/ferdi-kaza-hasari-icin-gerekli-bilgiler/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\ferdi-kaza-hasari-icin-gerekli-bilgiler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/kasko-hasar-dosyalarinda-istenen-bilgi-ve-belgeler/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\kasko-hasar-dosyalarinda-istenen-bilgi-ve-belgeler\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/kasko-hasar-dosyalarinda-istenen-bilgi-ve-belgeler/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\kasko-hasar-dosyalarinda-istenen-bilgi-ve-belgeler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/kaza-tespit-tutanagi/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\kaza-tespit-tutanagi\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/kaza-tespit-tutanagi/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\kaza-tespit-tutanagi\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/nakliye-hasari-sigortasi-gerekli-bilgiler/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\nakliye-hasari-sigortasi-gerekli-bilgiler\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/nakliye-hasari-sigortasi-gerekli-bilgiler/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\nakliye-hasari-sigortasi-gerekli-bilgiler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/trafik-hasari-icin-gerekli-bilgiler/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\trafik-hasari-icin-gerekli-bilgiler\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/trafik-hasari-icin-gerekli-bilgiler/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\trafik-hasari-icin-gerekli-bilgiler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/yangin-hasari-ile-ilgili-bilgiler/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\yangin-hasari-ile-ilgili-bilgiler\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/2022/12/21/yangin-hasari-ile-ilgili-bilgiler/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\2022\12\21\yangin-hasari-ile-ilgili-bilgiler\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/author/admin/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\author\admin\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/author/admin/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\author\admin\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/comments/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/feed/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: http://www.arcsigorta.com.tr/hakkimizda/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\hakkimizda\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/hizmetlerimiz/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\hizmetlerimiz\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/iletisim/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\iletisim\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/teklif-al/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\teklif-al\index.htm
+Content Type: text/html
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/creame-whatsapp-me/public/css/joinchat.min.css?ver=4.5.14
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\creame-whatsapp-me\public\css\joinchat.min.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/creame-whatsapp-me/public/js/joinchat.min.js?ver=4.5.14
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\creame-whatsapp-me\public\js\joinchat.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/css/font-awesome.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\css\font-awesome.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\fonts\fontawesome-webfont.woff2
+Content Type: font/x-woff2
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/admin/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\admin\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/frontend/css/logo-showcase-wordpress.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\frontend\css\logo-showcase-wordpress.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/frontend/css/owl.carousel.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\frontend\css\owl.carousel.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/frontend/css/tipso.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\frontend\css\tipso.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/frontend/js/owl.carousel.js?ver=2.4
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\frontend\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/logo-showcase/frontend/js/tipso.js?ver=1.0.8
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\logo-showcase\frontend\js\tipso.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/blank.gif
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\blank.gif
+Content Type: image/gif
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/common/grab.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\common\grab.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/common/grabbing.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\common\grabbing.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/common/loading-2.gif
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\common\loading-2.gif
+Content Type: image/gif
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/common/video-close-btn.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\common\video-close-btn.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/masterslider.main.css?ver=3.8.7
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\masterslider.main.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-1-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\black-skin-1-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-1.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\black-skin-1.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-2-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\black-skin-2-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/black-skin-2.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\black-skin-2.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/contrast-skin-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\contrast-skin-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/contrast-skin.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\contrast-skin.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-1-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-1-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-1.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-1.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-2-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-2-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-2.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-2.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-3-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-3-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-3.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-3.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-4-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-4-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-4.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-4.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-5-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-5-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-5.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-5.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-6-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-6-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/light-skin-6.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\light-skin-6.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/metro-skin-retina.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\metro-skin-retina.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/metro-skin.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\metro-skin.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/css/skins/minimal.svg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\css\skins\minimal.svg
+Content Type: image/svg+xml
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/js/jquery.easing.min.js?ver=3.8.7
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\js\jquery.easing.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/master-slider/public/assets/js/masterslider.min.js?ver=3.8.7
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\master-slider\public\assets\js\masterslider.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/otter-blocks/build/blocks/accordion.js?ver=ef5cc1f0963e0995c135
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\otter-blocks\build\blocks\accordion.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/plugins/otter-blocks/build/blocks/advanced-columns/style.css?ver=c35a444f68a1928fa0d9
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\plugins\otter-blocks\build\blocks\advanced-columns\style.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/themes/neve/assets/js/build/modern/frontend.js?ver=3.4.9
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\themes\neve\assets\js\build\modern\frontend.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-content/themes/neve/style-main-new.min.css?ver=3.4.9
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\themes\neve\style-main-new.min.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2020/01/neve-webdesign-GB-03.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2020\01\neve-webdesign-GB-03.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/1-300x164.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\1-300x164.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/1-768x419.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\1-768x419.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/1.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\1.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/4-300x157.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\4-300x157.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/4-768x401.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\4-768x401.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/4.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\4.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/bireysel-emeklilik-web-1-140x80.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\bireysel-emeklilik-web-1-140x80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/dask-web-300x225.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\dask-web-300x225.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/dask-web-768x576.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\dask-web-768x576.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/dask-web.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\dask-web.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/deprem-web-140x80.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\deprem-web-140x80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/ferdi-kaza-sigortasi-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\ferdi-kaza-sigortasi-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/ferdi-kaza-sigortasi-768x511.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\ferdi-kaza-sigortasi-768x511.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/ferdi-kaza-sigortasi-930x620.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\ferdi-kaza-sigortasi-930x620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/ferdi-kaza-sigortasi.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\ferdi-kaza-sigortasi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/iletisim-1024x306.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\iletisim-1024x306.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/iletisim-1536x458.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\iletisim-1536x458.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/iletisim-2048x611.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\iletisim-2048x611.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/iletisim-300x90.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\iletisim-300x90.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/iletisim-768x229.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\iletisim-768x229.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/Kasko-hasaris-gisortasi-belgeleri-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\Kasko-hasaris-gisortasi-belgeleri-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/Kasko-hasaris-gisortasi-belgeleri-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\Kasko-hasaris-gisortasi-belgeleri-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/Kasko-hasaris-gisortasi-belgeleri.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\Kasko-hasaris-gisortasi-belgeleri.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kasko-web-scaled-140x80.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kasko-web-scaled-140x80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kasko2-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kasko2-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kasko2-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kasko2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kasko2-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kasko2-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kasko2-930x620.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kasko2-930x620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kasko2.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kasko2.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kaza-tespit-tutanagi-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kaza-tespit-tutanagi-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kaza-tespit-tutanagi-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kaza-tespit-tutanagi-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kaza-tespit-tutanagi-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kaza-tespit-tutanagi-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kaza-tespit-tutanagi-930x620.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kaza-tespit-tutanagi-930x620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kaza-tespit-tutanagi.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kaza-tespit-tutanagi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/kaza-tespit-tutanagi.pdf
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\kaza-tespit-tutanagi.pdf
+Content Type: application/pdf
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo-tum-300x75.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo-tum-300x75.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo-tum.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo-tum.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_aksigorta-300x72.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_aksigorta-300x72.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_aksigorta-768x185.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_aksigorta-768x185.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_aksigorta.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_aksigorta.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_Allianz-300x72.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_Allianz-300x72.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_Allianz-768x185.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_Allianz-768x185.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_Allianz.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_Allianz.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_hdi-300x72.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_hdi-300x72.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_hdi-768x185.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_hdi-768x185.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_hdi.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_hdi.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_hepiyi-300x72.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_hepiyi-300x72.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_hepiyi-768x185.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_hepiyi-768x185.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/logo_hepiyi.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\logo_hepiyi.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/msh-background-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\msh-background-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/msh-background-1536x1024.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\msh-background-1536x1024.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/msh-background-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\msh-background-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/msh-background-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\msh-background-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/msh-background-930x620.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\msh-background-930x620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/msh-background.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\msh-background.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/nakliye-hasari-sigortasi-300x202.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\nakliye-hasari-sigortasi-300x202.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/nakliye-hasari-sigortasi-768x517.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\nakliye-hasari-sigortasi-768x517.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/nakliye-hasari-sigortasi.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\nakliye-hasari-sigortasi.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/new_service_new-1024x538.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\new_service_new-1024x538.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/new_service_new-300x158.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\new_service_new-300x158.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/new_service_new-768x403.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\new_service_new-768x403.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/new_service_new.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\new_service_new.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/quick-300x93.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\quick-300x93.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/quick.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\quick.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik-web-scaled-140x80.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik-web-scaled-140x80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik2-web-1024x683.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik2-web-1024x683.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik2-web-1536x1025.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik2-web-1536x1025.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik2-web-2048x1367.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik2-web-2048x1367.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik2-web-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik2-web-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik2-web-768x513.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik2-web-768x513.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/saglik2-web-930x620.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\saglik2-web-930x620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/seyahat-saglik-sigortasi-web-1-140x80.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\seyahat-saglik-sigortasi-web-1-140x80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/trafik-hasari-sigortasi-belgeleri-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\trafik-hasari-sigortasi-belgeleri-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/trafik-hasari-sigortasi-belgeleri-768x511.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\trafik-hasari-sigortasi-belgeleri-768x511.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/trafik-hasari-sigortasi-belgeleri.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\trafik-hasari-sigortasi-belgeleri.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/trafik-sigortasi-1-scaled-140x80.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\trafik-sigortasi-1-scaled-140x80.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/trafik-sigortasi-1-scaled.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\trafik-sigortasi-1-scaled.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/yangin-hasari-belgeleri-1024x682.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\yangin-hasari-belgeleri-1024x682.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/yangin-hasari-belgeleri-300x200.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\yangin-hasari-belgeleri-300x200.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/yangin-hasari-belgeleri-768x512.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\yangin-hasari-belgeleri-768x512.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/yangin-hasari-belgeleri-930x620.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\yangin-hasari-belgeleri-930x620.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2022/12/yangin-hasari-belgeleri.jpg
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2022\12\yangin-hasari-belgeleri.jpg
+Content Type: image/jpeg
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2023/12/cropped-A-3-180x180.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2023\12\cropped-A-3-180x180.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2023/12/cropped-A-3-192x192.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2023\12\cropped-A-3-192x192.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/2023/12/cropped-A-3-32x32.png
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\2023\12\cropped-A-3-32x32.png
+Content Type: image/png
+
+Uri: http://www.arcsigorta.com.tr/wp-content/uploads/master-slider/custom.css?ver=10.7
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-content\uploads\master-slider\custom.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/css/dist/block-library/style.min.css?ver=6.4.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/comment-reply.min.js?ver=6.4.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\comment-reply.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/jquery.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/ui/draggable.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\ui\draggable.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/ui/droppable.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\ui\droppable.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\ui\mouse.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-includes/js/jquery/ui/sortable.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-includes\js\jquery\ui\sortable.min.js
+Content Type: application/javascript
+
+Uri: http://www.arcsigorta.com.tr/wp-json/
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\index.htm
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fferdi-kaza-hasari-icin-gerekli-bilgiler%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fferdi-kaza-hasari-icin-gerekli-bilgiler%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fkasko-hasar-dosyalarinda-istenen-bilgi-ve-belgeler%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-18
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fkasko-hasar-dosyalarinda-istenen-bilgi-ve-belgeler%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-19
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fkaza-tespit-tutanagi%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fkaza-tespit-tutanagi%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fnakliye-hasari-sigortasi-gerekli-bilgiler%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-14
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fnakliye-hasari-sigortasi-gerekli-bilgiler%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-15
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Ftrafik-hasari-icin-gerekli-bilgiler%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-20
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Ftrafik-hasari-icin-gerekli-bilgiler%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-21
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fyangin-hasari-ile-ilgili-bilgiler%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-16
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2F2022%2F12%2F21%2Fyangin-hasari-ile-ilgili-bilgiler%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-17
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Fhakkimizda%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Fhakkimizda%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Fhizmetlerimiz%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Fhizmetlerimiz%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Filetisim%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Filetisim%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Fteklif-al%2F
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/oembed/1.0/embed?url=http:%2F%2Fwww.arcsigorta.com.tr%2Fteklif-al%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/pages/391
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\pages\391
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/pages/61
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\pages\61
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/pages/75
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\pages\75
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/pages/772
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\pages\772
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/pages/823
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\pages\823
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/posts/786
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\posts\786
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/posts/795
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\posts\795
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/posts/798
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\posts\798
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/posts/801
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\posts\801
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/posts/805
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\posts\805
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/posts/808
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\posts\808
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/wp-json/wp/v2/users/1
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\wp-json\wp\v2\users\1
+Content Type: application/json
+
+Uri: http://www.arcsigorta.com.tr/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.arcsigorta.com.tr\xmlrpc.php
+Content Type: text/xml
+
