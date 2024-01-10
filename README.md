@@ -1,1 +1,0 @@
-"# Ekonomik-Si-orta" 

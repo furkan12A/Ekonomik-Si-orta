@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-Ekonemik si\u011Forta",
+      "appliesTo": "/",
+      "type": "launch"
+    }
+  ]
+}
